@@ -12,12 +12,14 @@
 
   <PropertyGroup>
     <PackageId>DitoDisco.Core</PackageId>
+    <PackageTags></PackageTags>
     <Version>1.0.0</Version>
     <Authors>Dit05</Authors>
-    <Product>DitoDisco Core Library</Product>
     <Description>
       This library contains constructs so incredibly useful that it is a dependency of most other DitoDisco libraries.
     </Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/Dit05/DitoDisco.Core</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
