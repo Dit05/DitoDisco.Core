@@ -1,7 +1,7 @@
 # DitoDisco.Core
 Useful high-level constructs.
 
-## Features:
+## Features
 [IGenericEnumerable](/DitoDisco.Core/IGenericEnumerable.cs) - Interface for implementing `System.Collections.Generic.IEnumerable<T>` without the burden of `System.Collections.IEnumerable`.
 
 *Example:*
